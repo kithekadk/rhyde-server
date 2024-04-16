@@ -2,7 +2,7 @@ POST http://localhost:4100/auth/login
 Content-Type: application/json
 
 {
-    "email": "jamesew2605@gmail.com",
+    "email": "john@yopmail.com",
     "password": "12345678"
 }
 
@@ -11,8 +11,8 @@ PUT http://localhost:4100/auth/reset_pwd
 Content-Type: application/json
 
 {
-    "email": "meshackkorir100@gmail.com",
-    "phone_number": "0198678330",
+    "email": "john@yopmail.com",
+    "phone_number": "0787652321",
     "password": "12345678"
 }
 

@@ -22,14 +22,14 @@ GET http://localhost:4100/users/4756cf7d-ff5c-4b78-965d-864691cbe560
 token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNWQxNGEwNWUtOTMwOC00ZDIzLTkyNTgtMDMxNTJkMjY0MjdmIiwibmFtZSI6Ikdlb3JnZSBLYXJpbWkiLCJlbWFpbCI6Imdlb3JnZWthcmltaTY5QGdtYWlsLmNvbSIsInBob25lX251bWJlciI6IjA3MTMyNDM0MjQzIiwicm9sZSI6ImN1c3RvbWVyIiwiaXNXZWxjb21lZCI6dHJ1ZSwiaWF0IjoxNzA3MzA3MDM2fQ.ChIqA4PKoIEEVzFv4rc-a_2gKBt3qMUIuql7INrSNq0
 
 ###
-PUT http://localhost:4100/users/update/4756cf7d-ff5c-4b78-965d-864691cbe560
+PUT http://localhost:4100/users/update/4a9fb846-4dbf-4318-9fb6-ad01731cdd0d
 Content-Type: application/json
 token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNWQxNGEwNWUtOTMwOC00ZDIzLTkyNTgtMDMxNTJkMjY0MjdmIiwibmFtZSI6Ikdlb3JnZSBLYXJpbWkiLCJlbWFpbCI6Imdlb3JnZWthcmltaTY5QGdtYWlsLmNvbSIsInBob25lX251bWJlciI6IjA3MTMyNDM0MjQzIiwicm9sZSI6ImN1c3RvbWVyIiwiaXNXZWxjb21lZCI6dHJ1ZSwiaWF0IjoxNzA3MzA3MDM2fQ.ChIqA4PKoIEEVzFv4rc-a_2gKBt3qMUIuql7INrSNq0
 
 {
-    "name": "Nyambura Chomba",
-    "email": "sheila@yopmail.com",
-    "phone_number": "0787654321",
+    "name": "John Doe",
+    "email": "john@yopmail.com",
+    "phone_number": "0787652321",
     "role": "customer",
     "password": "12345678",
     "profile_image": ""
